@@ -28,6 +28,10 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+.jumbotron{
+  padding-bottom: 1rem !important;
+}
+
 /*.card-b{
   position: relative;
   position: absolute;
