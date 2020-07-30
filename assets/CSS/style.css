@@ -170,7 +170,13 @@ footer{
   footer{
     margin-top: 2rem;
   }
- 
+ .get-started{
+   padding-top: 0% !important;
+ }
+
+ .who-we-are-for-card{
+  margin-top: 1.3rem;
+ }
 
 }
 
