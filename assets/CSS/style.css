@@ -32,39 +32,6 @@
   padding-bottom: 1rem !important;
 }
 
-/*.card-b{
-  position: relative;
-  position: absolute;
-  left: 50px;
-  top: 250px;
-}
-
-.testimonial_subtitle{
-  color: #0aaa7a;
-  font-size: 12px;
-}
-.testimonial_btn{
-  background-color: #373d4b !important;
-  color: #fff !important;
-}
-.seprator {
-  height: 2px;
-  width: 56px;
-  background-color: #0aaa7a;
-  margin: 7px 0 10px 0;
-}
-
-.rounded-circle{
-  width: auto;
-  height: 400px;
-}*/
-
-.imgg{
-  width: auto;
-  height: auto;
-  margin-left: 1.5rem;
-}
-
 .carousel-indicators{
   list-style: none;
 }
@@ -154,154 +121,8 @@ body {
   color: #000;
 }
 
-
-.nav-item-css {
-  margin-right: 1.5rem;
-  font-family: 'Montserrat', sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 21px;
-
-}
-
-
-.nav-link-css {
-  font-weight: 500;
-  color:  #121212 !important;
-  border-radius: 5px;
-  -webkit-transition: all .25s ease-in-out;
-  transition: all .25s ease-in-out;
-
-}
-
-
-.nav-link-css:hover {
-  color: red !important;
-}
-
-.about-mee-card{
-  width: 400px !important;
-}
-
-.portfolio{
-font-family: 'Montserrat', sans-serif;
-font-style: normal;
-font-weight: bold;
-font-size: 28px;
-line-height: 56px;
-letter-spacing: 0.04em;
-
-color: #121212;
-}
-.about-me-bg{
-  margin-top: 10rem;
-}
-.about-me-card{
-  background-color: #000;
-  color: #fff;
-  position: relative;
-  position: absolute;
-  bottom: -170px;
-  right: 80px;
-  border: none;
-}
-
-.about-mee-card{
-  color: #000;
-  background-color: #fff;
-  position: relative;
-  position: absolute;
-  bottom: 50px;
-  left: -110px;
-  border: none;
-}
-
-.bttt{
-  background-color: #000;
-  color: #fff;
-  position: relative;
-  position: absolute;
-  bottom: 50px;
-  left: -50px;
-  border: none;
-}
-
-
-
-.featured-in{
-  
-  font-family: 'Montserrat', sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 28px;
-  line-height: 56px;
-  color: #121212;
-}
-.featured{
-  margin-top: 11rem;
-}
-
-.featured-bg{
-  background-color: #EBEBEB;
-  
-  margin-bottom: 1rem;
-}
-
-.card-bg{
-  position: relative;
-  position: absolute;
-  bottom: 15px;
-  right: 15px;
-  background-color: #fff;
-  border-radius: 100%;
-  height: 40px;
-  width: 50px;
-  padding: 5px;
-}
-
-.fa-arrow-right {
-  background-color: #e5e5e5;
-  width: 30px;
-  height: 20px;
-}
-
-.fa-arrow-up{
-  background-color: #e5e5e5;
-  width: 30px;
-  height: 25px;
-}
-
-.contact-us{
-  background-color: #EBEBEB;
-}
-
-.contact-btn{
-  background-color: black;
-  color: #fff;
-  border-radius: 0%;
-}
-
-.See-More-btn{
-  border: 1px solid black;
-  color: #000;
-  border-radius: 0%;
-  display: none;
-}
-
-textarea{
-  border-radius: 0%;
-  resize: none;
-}
-
-.form-control{
-  height: 46px;
-}
-
 footer{
-
-  background-color: #001f3f; 
- 
+  background-color: #001f3f;
 }
 
 .footer-text{
@@ -319,288 +140,41 @@ footer{
   /*width: 100%;*/
 }
 
-.social-car .cards{
-  border: 5px solid #121212;
-  width: 90%;
-  display: flex;
-  align-items: flex-end;
-}
-
-.social-card-text{
-  position: relative;
-  position: absolute;
-  bottom: 290px;
-  left: 130px;
-  background-color: #fff;
-  color: #121212;
-}
-
-.social-card-text-big{
-  background-color: #fff;
-  font-family: 'Montserrat' !important;
-  font-style: normal;
-  font-weight: bolder;
-  font-size: 44px;
-
-  /* or 109px */
-  color: #121212;
-}
-.social-card-text-small{
-  background-color: #fff;
-  color: #121212;
-  font-family: 'Montserrat' !important;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-}
-
-.about-mobile-view-only{
-  display: none;
-}
-
-
-
-
 @media only screen and (max-width: 1200px){
 
 }
 
-
 @media only screen and (max-width: 992px){
-  .about-me-card{
-    background-color: #000;
-    color: #fff;
-    position: relative;
-    position: absolute;
-    bottom: -170px;
-    right: -10px;
-    border: none;
-  }
-
  
 
 }
 
 @media only screen and (max-width: 768px) {
 
-  .social-card{
-
-    border: 5px solid #121212;
-    width: 100%;
-  }
-
-  .social-card-text{
-    position: relative;
-    position: absolute;
-    bottom: 790px;
-    left: 50px;
-    background-color: #fff;
-    color: #121212;
-  }
-  
-  .social-card-text-big{
-    font-family: 'Rozha One '!important;
-    font-style: normal;
-    font-weight: bolder;
-    font-size: 15px;
-    color: #121212;
-  }
-  .card-text-small{
-    font-family: Karla;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 10px;
-    color: #121212;
-  }
-
-  .See-More-btn{
-    border: 1px solid black;
-    color: #000;
-    border-radius: 0%;
-    display: initial;
-  }
-
-  .img-destop-view-only{
-    display: none;
-  }
-
-  .about-me-card{
-    background-color: #000;
-    color: #fff;
-    position: relative;
-    position: absolute;
-    bottom: -170px;
-    right: 80px;
-    border: none;
-    display: none;
-  }
-  
-  .about-me-bg{
-    margin-top: 2rem;
-  }
-
-  .about-mobile-view-only{
-    display: initial;
-  }
-
-  .mobile-img{
-    width: 100%;
-    height: 100%;
-  }
-
   .slide{
     padding: 0.5rem 0.5rem 4rem 0.5rem ;
   }
   footer{
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
-.mb img{
-  width: 40px;
-  height: 200px;
-  margin-right: 0%;
-  padding: 0%;
-}
-
-.featured{
-  margin-top: 3rem;
-}
-
 
 }
 
 
 @media only screen and (max-width: 576px){
-  .social-card{
-
-    border: 5px solid #121212;
-    width: 62%;
-  }
-
-  .social-card-text{
-    position: relative;
-    position: absolute;
-    bottom: 550px;
-    left: 5px;
-    background-color: #fff;
-    color: #121212;
-  }
-  
-  .social-card-text-big{
-    font-family: 'Rozha One '!important;
-    font-style: normal;
-    font-weight: bolder;
-    font-size: 15px;
-    color: #121212;
-  }
-  .card-text-small{
-    font-family: Karla;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 10px;
-    color: #121212;
-  }
-
-  .See-More-btn{
-    border: 1px solid black;
-    color: #000;
-    border-radius: 0%;
-    display: initial;
-  }
-
-  .img-destop-view-only{
-    display: none;
-  }
-
-  .about-me-card{
-    background-color: #000;
-    color: #fff;
-    position: relative;
-    position: absolute;
-    bottom: -170px;
-    right: 80px;
-    border: none;
-    display: none;
-  }
-  
-  .about-me-bg{
-    margin-top: 2rem;
-  }
-
-  .about-mobile-view-only{
-    display: initial;
-  }
-
-  .mobile-img{
-    width: 100%;
-    height: 100%;
-  }
 
   .slide{
     padding: 0.3rem 0.1rem 5rem 0.1rem ;
   }
+
   footer{
     margin-top: 2rem;
   }
-.mb img{
-  width: 40px;
-  height: 200px;
-  margin-right: 0%;
-  padding: 0%;
-}
-
-.featured{
-  margin-top: 3rem;
-}
-
-
-
-.social-card-text-big{
-  background-color: #fff;
-  font-family: 'Rozha One'!important;
-  font-style: normal;
-  font-weight: bolder;
-  font-size: 18px;
-
-  /* or 109px */
-  color: #121212;
-}
-.social-card-text-small{
-  background-color: #fff;
-  color: #121212;
-  font-family: Karla;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 10px;
-}
-
-
-.about-mee-card{
-  color: #000;
-  background-color: #fff;
-  position: relative;
-  position: absolute;
-  bottom: 40px;
-  left: -90px;
-  border: none;
-}
-
-.about-mee-card{
-  width: 193px !important;
-}
-
-.imgg{
-  width: 50px;
-  height: 50px;
-  margin-left: 0.8rem;
-}
+ 
 
 }
 
 
 @media only screen and (max-width: 320px){
-  .imgg{
-    width: 50px;
-    height: 50px;
-    margin-left: 0.3rem;
-  }
+
 }
