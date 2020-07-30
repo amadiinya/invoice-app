@@ -12,6 +12,21 @@
   color: #0074d9;
 }
 
+.learn-more-btn{
+  background-color: #fff;
+  border: 2px solid #001f3f;
+  color: #0074d9;
+}
+
+.learn-more-btn:hover{
+  background-color: #0074d9;
+  color: #fff;
+  border: none;
+}
+
+.card-text{
+  font-family: 'Montserrat', sans-serif;
+}
 
 /*.card-b{
   position: relative;
